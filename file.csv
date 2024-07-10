@@ -1,4 +1,2 @@
-Name,Age,City
-Alice,25,New York
-Bob,30,Los Angeles
-Charlie,35,Chicago
+number,stock,name,id_num,price,type,kategory
+1,20,NSP-STICK,23121,20,kč,Electronicks
